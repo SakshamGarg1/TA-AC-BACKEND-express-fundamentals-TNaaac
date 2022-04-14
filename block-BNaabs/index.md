@@ -1,6 +1,6 @@
 writeCode
 
-Create a basic express server and add routes:-
+Create a basic express server and add routes:-..
 
 - Add a GET request on '/' route and render 'index.html' file using `res.sendFile`.
 - Add a GET request on '/new' route and render new.html with a html form.
